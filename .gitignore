@@ -1,0 +1,16 @@
+*.iml
+.idea
+*.swp
+.project
+.svn
+.DS_Store
+*.log*
+.arcconfig
+/target
+/output
+/out
+*/target
+*/out
+.npm
+node_modules/
+.sass-cache/
